@@ -1,2 +1,1 @@
-# DesignPatterns
-Design patterns in C++
+C util libraries
